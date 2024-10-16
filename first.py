@@ -1,0 +1,1 @@
+print("This is the for lesson 6.")
